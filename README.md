@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 This is ayush , an undergrad pursuing BTech in Computer Science Engineering.
-<br> This is the repo which i use for learning and practicing git version control and github
+<br> This is the repo which i use for learning and practicing git version control and github<br>
 Thanks
