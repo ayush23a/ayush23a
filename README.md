@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 
 <!-- About Me -->
-## ✌️ About Me: ##
+# ✌️ About Me: #
 <p> Hi there 👋, I'm Ayush Aman... <br>
 I am an AI Native Developer from India </p>
 
@@ -33,7 +33,7 @@ I am an AI Native Developer from India </p>
 ---
 
 <!-- Social Links & Badges -->
-## 🌐 Social Connections: ##
+# 🌐 Social Connections: #
 <p align="justify">
   <a href="https://www.linkedin.com/in/ayush-aman-698035266/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://github.com/ayush23a"><img src="https://img.shields.io/github/followers/ayush23a?label=Follow&style=social" alt="GitHub Followers" /></a>
@@ -42,7 +42,7 @@ I am an AI Native Developer from India </p>
 
 ---
 <!-- Github skills -->
-## 🖥️ Tech Stack: ##
+# 🖥️ Tech Stack: #
 Here are the top skills I have: <br> <br>
 [![My Skills](https://skillicons.dev/icons?i=git,python,tensorflow,html,linux,mysql,gcp,c,docker,cpp,figma,raspberrypi,arduino,vscode,vercel)](https://skillicons.dev)
 <img src="https://cdn-icons-png.flaticon.com/512/5712/5712418.png" width="45" height="45" alt="AI"/>
@@ -65,7 +65,7 @@ The other technologies that I use and know:
 
 
 <!-- GitHub Stats -->
-## 📈 My Github Stats: ##
+# 📈 My Github Stats: #
 <div align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=ayush23a&show_icons=true&theme=radical" alt="Your GitHub stats" /> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush23a&theme=radical" alt="Your GitHub streak stats" /> <br>
