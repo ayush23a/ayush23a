@@ -69,6 +69,7 @@ The other technologies that I use and know:
 <div align="justify">
   <img src="https://github-readme-stats.vercel.app/api?username=ayush23a&show_icons=true&theme=radical" alt="Your GitHub stats" /> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush23a&theme=radical" alt="Your GitHub streak stats" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush23a&layout=compact&theme=tokyonight" />
 </div>
 
 ---
@@ -78,4 +79,7 @@ The other technologies that I use and know:
 <p align="justify">
   <img src="https://komarev.com/ghpvc/?username=ayush23a&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
+
+
+
 
