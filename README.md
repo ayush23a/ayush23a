@@ -37,7 +37,7 @@ I am an AI Native Developer from India </p>
 <p align="justify">
   <a href="https://www.linkedin.com/in/ayush-aman-698035266/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://github.com/ayush23a"><img src="https://img.shields.io/github/followers/ayush23a?label=Follow&style=social" alt="GitHub Followers" /></a>
-  <a href="https://twitter.com/amanayush04"><img src="https://img.shields.io/twitter/follow/amanayush04?label=Follow&style=social" alt="Twitter Follow" /></a>
+  <a href="https://twitter.com/aman_ayush4"><img src="https://img.shields.io/twitter/follow/aman_ayush4?label=Follow&style=social" alt="Twitter Follow" /></a>
 </p>
 
 ---
