@@ -44,8 +44,8 @@ I am an AI Native Developer from India </p>
 <!-- Github skills -->
 # 🖥️ Tech Stack: #
 Here are the top skills I have: <br> <br>
-[![My Skills](https://skillicons.dev/icons?i=git,python,tensorflow,github,html,linux,mysql,gcp,c,docker,azure,cpp,figma,raspberrypi,arduino,vscode,vercel)](https://skillicons.dev)
-<img src="https://cdn-icons-png.flaticon.com/512/5712/5712418.png" width="45" height="45" alt="AI"/>
+[![My Skills](https://skillicons.dev/icons?i=git,python,tensorflow,github,html,linux,mysql,gcp,c,docker,azure,cpp,figma,raspberrypi,arduino,vscode,vercel,ai)](https://skillicons.dev)
+
 
 The other technologies that I use and know: 
 <!-- AI / ML -->
