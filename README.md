@@ -29,7 +29,7 @@ I am an AI Native Developer from India </p>
 - 💬 Ask me about anything related to **Artificial Intelligence, LLMs, RAG, Machine Learning, DevOps, MLOps & Databases**
 - 📫 How to reach me: **amanayush2704@gmail.com**
 - ⚡ Fun fact: **I love singing and playing Guitar**
-- 📢 Looking for an active Slack community. Kindly send invitation here: **ayushworks201707@gmail.com**
+- 📢 Looking for an active **Slack community**. Kindly send invitation here: **ayushworks201707@gmail.com**
 
 ---
 
