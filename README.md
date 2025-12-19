@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hello+World!!;I'm+Ayush+Aman;AI+Native+Developer;Building+Future+with+LLMs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hello+World!!;I'm+Ayush+Aman;AI+Native+Developer;Forging+Future+with+LLMs" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -49,7 +49,7 @@
 
 ### 🧠 AI, ML & Data Science
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" /><br>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" height="40" alt="Langchain"/>
   <img src="https://img.shields.io/badge/LlamaIndex-black?style=flat&logo=llama&logoColor=white" height="40" alt="LlamaIndex"/>
   <img src="https://img.shields.io/badge/RAG-FF4B4B?style=flat&logo=openai&logoColor=white" height="40" alt="RAG"/>
@@ -58,7 +58,7 @@
 
 ### 💻 Core Development & DevOps
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,mysql,git,github,vscode,linux,docker,azure,gcp,vercel,figma,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,html,javascript,mysql,postgresql,git,github,vscode,linux,docker,azure,gcp,vercel,figma,arduino,raspberrypi" />
 </div>
 
 ---
