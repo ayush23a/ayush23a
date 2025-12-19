@@ -1,82 +1,98 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Header / Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=33FFCC&size=30&center=true&vCenter=true&lines=Hello+World!!;I'm+Ayush+Aman;Welcome+to+my+Profile;+Lets+explore+it!!" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Hello+World!!;I'm+Ayush+Aman;AI+Native+Developer;Building+Future+with+LLMs" alt="Typing SVG" />
+</div>
 
-<!-- About Me -->
-# ✌️ About Me: #
-<p> Hi there 👋, I'm Ayush Aman... <br>
-I am an AI Native Developer from India </p>
+<div align="center">
+  <h3>✨ Bridging the gap between Data, AI, and Real-world Solutions</h3>
+</div>
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/ayush-aman-698035266/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ayush23a">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/aman_ayush4">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="mailto:amanayush2704@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<br/>
+
+## ⚡ About Me
+
+<table align="center">
+  <tr>
+    <td align="left" width="60%">
+      Hi there 👋, I'm <b>Ayush Aman</b>.<br><br>
+      I am an <b>AI Native Developer</b> from India passionate about building intelligent systems. My work focuses on the intersection of Software Engineering and Artificial Intelligence.
+      <br><br>
+      🚀 <b>Current Focus:</b> Deep diving into <b>AI Automations, Agents & RAG Pipelines</b>.<br>
+      🔭 <b>Working on:</b> Open-source projects & High-performance AI Interfaces.<br>
+      🧠 <b>Learning:</b> Advanced Data Structures & Algorithms.<br>
+      💬 <b>Ask me about:</b> LLMs, MLOps, DevOps, & Databases.<br>
+      🎸 <b>Fun Fact:</b> I unwind by singing and playing the Guitar.
+    </td>
+    <td align="center" width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-- 🌱 I’m currently learning **AI Automations** along with practicing **Data Structures & Algorithms**
-- 👯 I’m looking to collaborate on **Open-source projects** & **Client-based projects** 
-- 💬 Ask me about anything related to **Artificial Intelligence, LLMs, RAG, Machine Learning, DevOps, MLOps & Databases**
-- 📫 How to reach me: **amanayush2704@gmail.com**
-- ⚡ Fun fact: **I love singing and playing Guitar**
-- 📢 Looking for an active **Slack community**. Kindly send invitation here: **ayushworks201707@gmail.com**
+## 🛠️ Technical Arsenal
 
----
+### 🧠 AI, ML & Data Science
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" height="40" alt="Langchain"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-black?style=flat&logo=llama&logoColor=white" height="40" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=flat&logo=openai&logoColor=white" height="40" alt="RAG"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" height="40" alt="HuggingFace"/>
+</div>
 
-<!-- Social Links & Badges -->
-# 🌐 Social Connections: #
-<p align="justify">
-  <a href="https://www.linkedin.com/in/ayush-aman-698035266/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://github.com/ayush23a"><img src="https://img.shields.io/github/followers/ayush23a?label=Follow&style=social" alt="GitHub Followers" /></a>
-  <a href="https://twitter.com/aman_ayush4"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/></a>
-</p>
-
----
-<!-- Github skills -->
-# 🖥️ Tech Stack: #
-Here are the top skills I have: <br> <br>
-[![My Skills](https://skillicons.dev/icons?i=git,python,tensorflow,github,html,linux,mysql,gcp,c,docker,azure,cpp,figma,raspberrypi,arduino,vscode,vercel,ai)](https://skillicons.dev)
-
-
-The other technologies that I use and know: 
-<!-- AI / ML -->
-![Artificial Intelligence](https://img.shields.io/badge/AI-Artificial%20Intelligence-purple?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ML-blue?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-<!-- LangChain & LangSmith -->
-![LangChain](https://img.shields.io/badge/LangChain-0055FF?style=for-the-badge&logo=chainlink&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-00C4B3?style=for-the-badge&logo=airtable&logoColor=white)
-
-<!-- RAG -->
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-orange?style=for-the-badge&logo=databricks&logoColor=white)
-
-<!-- Render & Vercel -->
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
-
-
-<!-- GitHub Stats -->
-# 📈 My Github Stats: #
-<div align="justify">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush23a&show_icons=true&theme=radical" alt="Your GitHub stats" /> <br>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush23a&theme=dark&hide_border=false" alt= "Github Streak"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush23a&layout=compact&theme=tokyonight" />
+### 💻 Core Development & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,html,mysql,git,github,vscode,linux,docker,azure,gcp,vercel,figma,arduino,raspberrypi" />
 </div>
 
 ---
 
-<!-- Footer -->
-## 🕵🏻 Profile Visit Tracking: ##
-<p align="justify">
-  <img src="https://komarev.com/ghpvc/?username=ayush23a&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+## 📊 GitHub Analytics
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ayush23a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Ayush's Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush23a&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush23a&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak Stats" />
+</div>
 
+---
 
+<div align="center">
+  <h3>🐍 My Contribution Gradient</h3>
+  <img src="https://github.com/ayush23a/ayush23a/raw/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake Animation Light" />
+  <img src="https://github.com/ayush23a/ayush23a/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
+  <p>Looking for an active Slack community? Send me an invite at <b>ayushworks201707@gmail.com</b></p>
+  
+  <img src="https://komarev.com/ghpvc/?username=ayush23a&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
+</div>
