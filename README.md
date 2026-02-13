@@ -69,15 +69,15 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ayush23a&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Ayush's Stats" />
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush23a&theme=blueberry" alt="Ayush's Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush23a&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush23a&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt = "Streak Stats"/>
       </td>
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush23a&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="Streak Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush23a&theme=blueberry" alt="Github Summary" />
 </div>
 
 ---
