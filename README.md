@@ -50,6 +50,8 @@
 ### 🧠 AI, ML & Data Science
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" /><br>
+  <img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=flat&logo=openai&logoColor=white" height="40" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/LangGraph-4B0082?style=flat&logo=langchain&logoColor=white" height="40" alt="LangGraph"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white" height="40" alt="Langchain"/>
   <img src="https://img.shields.io/badge/LlamaIndex-black?style=flat&logo=llama&logoColor=white" height="40" alt="LlamaIndex"/>
   <img src="https://img.shields.io/badge/RAG-FF4B4B?style=flat&logo=openai&logoColor=white" height="40" alt="RAG"/>
