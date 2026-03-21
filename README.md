@@ -60,7 +60,7 @@
 
 ### 💻 Core Development & DevOps
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,javascript,mysql,postgresql,git,github,vscode,linux,docker,azure,gcp,vercel,figma,arduino,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,mysql,postgresql,git,github,vscode,linux,docker,gcp,vercel,aws,figma,arduino,raspberrypi" />
 </div>
 
 ---
