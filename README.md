@@ -35,7 +35,7 @@
       🚀 <b>Current Focus:</b> Deep diving into <b>AI Automations, Agents & RAG Pipelines</b>.<br>
       🔭 <b>Working on:</b> Open-source projects & High-performance AI Interfaces.<br>
       💬 <b>Ask me about:</b> LLMs, MLOps, DevOps, & Databases.<br>
-      🎸 <b>Fun Fact:</b> I unwind by singing and playing the Guitar.
+      🎸 <b>Fun Fact:</b> I unwind by singing and playing the Guitar.<br>
       🧠 <b>Always refining</b> myself to the edge
     </td>
     <td align="center" width="40%">
