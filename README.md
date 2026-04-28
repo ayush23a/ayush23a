@@ -6,7 +6,6 @@ I am an Agentic AI Engineer specializing in LLMs, agentic workflows, end-to-end 
 
 ### 🔗 Let's Connect
 * [LinkedIn](https://www.linkedin.com/in/ayush-aman-698035266/) | [X (Twitter)](https://twitter.com/aman_ayush4) | [Email](mailto:amanayush2704@gmail.com)
-
 ---
 
 ### 🛠️ Tech Stack - I generally work with:
