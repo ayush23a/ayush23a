@@ -11,3 +11,12 @@ I am an Agentic AI Engineer specializing in LLMs, agentic workflows, end-to-end 
 ### 🛠️ Tech Stack - I generally work with:
 * **AI & Agents:** Python, LangGraph, LangChain, RAG Systems, ChromaDB, Typescript 
 * **Backend & Cloud:** FastAPI, PostgreSQL, Docker, AWS, GitHub Actions 
+
+### ☕ Support My Work
+
+If my open-source projects, AI tools, or technical content have helped you, consider supporting my work on **Ko-fi**.
+Your support helps fund **GPU credits**, **hosting**, and the development of **new open-source AI projects**.
+
+> Every contribution, no matter the size, helps me build more for the developer community.
+
+[![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ayushaman)
