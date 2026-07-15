@@ -1,4 +1,4 @@
-## Greetings, I'm Ayush
+## Greetings, I'm Ayush 👋
 
 I am an Agentic AI Engineer specializing in LLMs, agentic workflows, end-to-end systems and RAG pipelines. I am passionate about building intelligent, real-world applications and am currently an **open-source contributor**. 
 
@@ -9,8 +9,9 @@ I am an Agentic AI Engineer specializing in LLMs, agentic workflows, end-to-end 
 ---
 
 ### 🛠️ Tech Stack - I generally work with:
-* **AI & Agents:** Python, LangGraph, LangChain, RAG Systems, ChromaDB, Typescript 
-* **Backend & Cloud:** FastAPI, PostgreSQL, Docker, AWS, GitHub Actions 
+* **AI & Agents:** Python, LangGraph, LangChain, RAG Systems, ChromaDB, PgVector, Typescript 
+* **Backend & DevOps:** FastAPI, PostgreSQL, Docker, GitHub Actions
+* **Cloud Services:** AWS, Amazon Bedrock, Amazon Textract, AWS S3, EC2, GCP, Microsoft Azure Foundry, CloudWatch
 
 ### ☕ Support My Work
 
