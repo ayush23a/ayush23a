@@ -17,11 +17,3 @@ I am an AI Engineer specializing in LLMs, agentic workflows, end-to-end systems 
 * **Backend & DevOps:** FastAPI, TypeScript, Docker, GitHub Actions, CI/CD Pipelines
 * **Cloud & AI Infrastructure:** AWS (Bedrock, Textract, EC2, CloudWatch), GCP, Microsoft Azure AI Foundry
 
-### ☕ Support My Work
-
-If my open-source projects, AI tools, or technical content have helped you, consider supporting my work on **Ko-fi**.
-Your support helps fund **GPU credits**, **hosting**, and the development of **new open-source AI projects**.
-
-> Every contribution, no matter the size, helps me build more for the developer community.
-
-[![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/ayushaman)
