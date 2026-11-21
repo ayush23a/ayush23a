@@ -5,7 +5,7 @@ I am an AI Engineer specializing in LLMs, agentic workflows, end-to-end systems 
 🟢 **Status:** Open to work
 
 ### 🔗 Let's Connect
-* [LinkedIn](https://www.linkedin.com/in/ayushaman24/) | [X (Twitter)](https://twitter.com/aman_ayush4) | [Email](mailto:amanayush2704@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/ayushaman24/) | [X (Twitter)](https://twitter.com/aman_ayush4) | [Email](mailto:amanayush2704@gmail.com) | [Portfolio](https://ayush-aman.vercel.app)
 ---
 
 ### 🛠️ Tech Stack - I generally work with
