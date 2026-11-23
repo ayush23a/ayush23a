@@ -10,8 +10,6 @@ I build agentic and RAG systems that survive production, not notebooks. LLM pipe
 
 - [Fixpert](marketplace.visualstudio.com/items?itemName=AyushAman.fixpert): VS Code extension, live on the Marketplace. Reads stack traces and terminal output as they come in, ranks root causes with confidence scores, suggests step-by-step fixes without touching your code. Stateless by design, no raw log persistence.
 
-- Elevate: opportunity-intelligence backend. Distributed scraping plus LLM extraction on FastAPI, PostgreSQL, Redis and AWS, Dockerised services, auth and schema design on top.
-
 ## 🧠 How I think about agents
 
 The demo is the easy part. What matters is what happens when the agent is wrong, so I build with an independent evaluator rather than letting the generator grade itself, plus tracing, guardrails and token and latency budgets. I write about the failure modes on [Substack](https://substack.com/@ayushaman0) and [Medium](https://medium.com/@amanayush0).
